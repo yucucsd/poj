@@ -27,5 +27,4 @@ int main()
         fences.push(t1 + t2);
     }
     printf("%lld\n", cost);
-    scanf("%d", &n);
 }
